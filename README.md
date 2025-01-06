@@ -32,6 +32,7 @@
 
 ## 项目结构
 
+```
 mac-resource-monitor/
 │
 ├── src/                   # 源代码目录
@@ -53,6 +54,7 @@ mac-resource-monitor/
 │
 ├── Makefile               # 项目编译和测试的构建文件
 └── README.md              # 项目说明文档
+```
 
 
 
